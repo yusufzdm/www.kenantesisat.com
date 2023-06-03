@@ -1,0 +1,23 @@
+*{
+    font-family:   'Open Sans', sans-serif;
+}
+
+
+.hoba ul{
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bolder;
+    list-style-type: disc;
+    font-size: larger;
+    
+    
+}
+.list-group-item {
+    display: list-item;
+  }
+.yorumlar h1{
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bolder;
+}
+html {
+    scroll-behavior: smooth;
+  }
